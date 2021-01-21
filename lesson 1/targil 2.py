@@ -21,19 +21,3 @@ print("Alafim= " + str(alafim))
 print("Meot= " + str(meot))
 print("Asarot= " + str(asarot))
 print("Ahadot= " + str(ahadot))
-
-
-
-
-
-
-
-
-
-'''
-matara
-alafim:4
-meot:5
-asarot=6
-ahadot=7
-'''
