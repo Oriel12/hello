@@ -1,4 +1,5 @@
-print("hello world!")
+name=input("Enter your name: ")
+age=input("Enter your Age: ")
+mail=input("Enter your mail: ")
 
-for i in range(10):
-    print (i)
+print("\nFull name: " + name + "\nYour Age is: " + str(age) + "\nYour mail: " + mail)
