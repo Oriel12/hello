@@ -1,5 +1,5 @@
 #####math:  *    |     +    |    -     |     **      |     /     |    //
-num=4567
+num=int(input("enter a number with 4 digits: "))
 alafim=num//1000
 alafimm=alafim*1000
 meott=num-alafimm
