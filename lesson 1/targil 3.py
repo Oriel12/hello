@@ -1,7 +1,11 @@
-a="oriel zvili"
-b="oriel@gmail.com"
-c=13
+my_list=[1,2,3,6.6,"oriel"]
+print("my age: " + str(my_list[2]))
+my_list2=list("1234567")
+print(my_list2)
 
-print("Full name: " + a + "\nEmail: " + b + "\nAge: " + str(c))
-print(a[-6::-1] + "\n " + str(c*3))
-print(a[0:5] in "idan ben dudu yuval shimon yael gal adam shahar yana")
+my_string=''.join(my_list2)
+print(my_string)
+
+list3=my_string.split()
+print(list3)
+print(list3 + my_list)
